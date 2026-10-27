@@ -1,6 +1,6 @@
 # Mapa de Riesgos · Procesos sanitarios
 
-Aplicación web: **https://herramientas-calidad.github.io/mapa-riesgos/** (versión 2026.11).
+Aplicación web: **https://herramientas-calidad.github.io/mapa-riesgos/** (versión 2026.12).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para elaborar **paso a paso** el mapa de riesgos de cualquier proceso sanitario:
 - el proceso y sus subprocesos;

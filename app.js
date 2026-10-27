@@ -32,7 +32,7 @@
   // ---------- Versión y novedades ----------
   // Al publicar cambios: añadir una entrada AL PRINCIPIO de NOVEDADES, poner su versión en los ?v= de index.html, en
   // APP_VERSION y subir CACHE_NAME en sw.js. Formato de versión: AAAA.NN.
-  const APP_VERSION = "2026.11";
+  const APP_VERSION = "2026.12";
   const NOVEDADES = [
     { version: "2026.07", fecha: "Octubre 2026", titulo: "Cargar archivo de Rondas de Seguridad", cambios: [
       "Nuevo botón «Cargar archivo de Rondas de Seguridad» en el paso 6: con la copia de seguridad (.json) de la app Rondas de Seguridad, los puntos calientes de tus rondas (lo que no se cumple en 2 de las 3 últimas rondas o en todas las de un turno) entran como modos de fallo.",
